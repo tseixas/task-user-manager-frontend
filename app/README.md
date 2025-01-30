@@ -3,6 +3,14 @@
 
 Este projeto é uma aplicação desenvolvido com [VueJS](https://vuejs.org/), [Quasar](https://quasar.dev/) e [Pinia Store](https://pinia.vuejs.org/).
 
+## 💻 Funcionalidades
+- Login
+- Redefinição de senha (Em breve)
+- Listagem de Tarefas
+- Cadastro de Tarefas
+- Visualização de Tarefas
+- Remoção de Tarefas
+
 ## 📥 Clonando o Repositório
 
 Para baixar o código-fonte do projeto, execute o seguinte comando:
