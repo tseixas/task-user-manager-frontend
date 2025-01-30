@@ -4,7 +4,7 @@
 Este projeto é uma aplicação desenvolvido com [VueJS](https://vuejs.org/), [Quasar](https://quasar.dev/) e [Pinia Store](https://pinia.vuejs.org/).
 
 ## 💻 Funcionalidades
-- Login
+- Login e Logout
 - Redefinição de senha (Em breve)
 - Listagem de Tarefas
 - Cadastro de Tarefas
@@ -56,5 +56,5 @@ docker-compose down
 
 ---
 
-Desenvolvido por [Seu Nome](https://github.com/tseixas) 🚀
+Desenvolvido por [Thiago Seixas](https://github.com/tseixas) 🚀
 
